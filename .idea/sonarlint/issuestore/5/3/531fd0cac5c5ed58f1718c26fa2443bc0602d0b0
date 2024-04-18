@@ -1,0 +1,19 @@
+
+7
+java:S1220""Move this file to a named package.8Ä‘Å“ï1
+G	java:S106,"+Replace this use of System.out by a logger.(¨•íñ8Ö‘Å“ï1
+G	java:S1066"+Replace this use of System.out by a logger.(¨•íñ8×‘Å“ï1
+v
+java:S3012D"YUse "Arrays.copyOf", "Arrays.asList", "Collections.addAll" or "System.arraycopy" instead.(±«°Ñ8Ø‘Å“ï1
+t
+java:S3776c"RRefactor this method to reduce its Cognitive Complexity from 17 to the 15 allowed.(³—·úÿÿÿÿ8Ù‘Å“ï1
+L	java:S106d"+Replace this use of System.out by a logger.(•Ñ’Ÿûÿÿÿÿ8Ú‘Å“ï1
+L	java:S106e"+Replace this use of System.out by a logger.(Ë¿ÎÓüÿÿÿÿ8Ú‘Å“ï1
+M	java:S106„"+Replace this use of System.out by a logger.(òüßÉûÿÿÿÿ8Ü‘Å“ï1
+H	java:S106‰"+Replace this use of System.out by a logger.(Êµÿñ8Ü‘Å“ï1
+M	java:S106"+Replace this use of System.out by a logger.(óìßïûÿÿÿÿ8İ‘Å“ï1
+H	java:S106‘"+Replace this use of System.out by a logger.(©µì8İ‘Å“ï1
+M	java:S106’"+Replace this use of System.out by a logger.(‹âº¥ùÿÿÿÿ8İ‘Å“ï1
+M	java:S106“"+Replace this use of System.out by a logger.(ñäŞ±şÿÿÿÿ8İ‘Å“ï1
+H	java:S106”"+Replace this use of System.out by a logger.(‰¦8Ş‘Å“ï1
+H	java:S106˜"+Replace this use of System.out by a logger.(ğÖÕ8ìÿÖ“ï1
